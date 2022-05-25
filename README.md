@@ -6,7 +6,9 @@
 ![Calculadora-IMC - Google Chrome 2022-05-09 19-28-41](https://user-images.githubusercontent.com/97768716/167509242-f602de21-89b4-44b2-bdc1-469899bab386.gif)
 
   
-
+<h2 align="center">
+  <a href="https://gabrielsf2022.github.io/CALCULADORA-IMC/" target="_blank"> Veja o site </a>
+</h2>
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
  
