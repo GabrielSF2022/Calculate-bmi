@@ -4,6 +4,7 @@
 
 
 ![Calculadora-IMC - Google Chrome 2022-05-09 19-28-41](https://user-images.githubusercontent.com/97768716/167509242-f602de21-89b4-44b2-bdc1-469899bab386.gif)
+![Design_sem_nome__1_-removebg-preview](https://user-images.githubusercontent.com/97768716/172171032-3a72d56c-5806-4219-855e-dfa561c3ba58.png)
 
   
 <h2 align="center">
@@ -21,7 +22,23 @@
 
  
 </div>
-<br>
+</br>
+
+   ## Implementações :information_source:
+1.Foram adicionados três campos para receber o nome, idade e altura, caso algum campo esteja vazio ou for negativo, vai aparecer uma mensagem para verificar.
+
+2.Como funciona o calculo: peso / (altura * altura).
+
+3.Classificação: <br>
+                 < 18.5 abaixo do peso. <br>
+                 < 25 com peso ideal.<br>
+                 < 30 levemente acima do peso.<br>
+                 < 35 com obesidade grau I.<br>
+                 < 40 com Obesidade grau II.<br>
+                 
+4. Responsividade para mobile
+
+
 
 <div align="center" style="display:inline_block"> <br> 
   
