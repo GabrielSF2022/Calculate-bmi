@@ -25,7 +25,7 @@
 </br>
 
    ## Implementações :information_source:
-1.Foram adicionados três campos para receber o nome, idade e altura, caso algum campo esteja vazio ou for negativo, vai aparecer uma mensagem para verificar.
+1.Foram adicionados três campos para receber o nome, peso e altura, caso algum campo esteja vazio ou for negativo, vai aparecer uma mensagem para verificar.
 
 2.Como funciona o calculo: peso / (altura * altura).
 
