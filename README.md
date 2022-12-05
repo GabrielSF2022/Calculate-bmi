@@ -8,7 +8,7 @@
 
   
 <h2 align="center">
-  <a href="https://gabrielsf2022.github.io/CALCULADORA-IMC/" target="_blank"> Veja o site </a>
+  <a href="https://gabrielsf2022.github.io/Calculate-bmi/" target="_blank"> Veja o site </a>
 </h2>
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
